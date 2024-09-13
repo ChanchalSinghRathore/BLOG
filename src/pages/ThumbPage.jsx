@@ -12,7 +12,7 @@ function ThumbPage() {
             THE BLOG
         </h1>
         
-        <img className='z-[-1] absolute bottom-4 right-48 w-[40rem]' src="src\assets\Traveller 1.png" alt="" />
+        <img className='z-[-1] absolute bottom-4 right-48 w-[40rem]' src="/Traveller 1.png" alt="" />
       </div>
       <div className='bg-white w-2xl h-0.5 '>
       </div>
